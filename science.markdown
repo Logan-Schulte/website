@@ -7,9 +7,6 @@ permalink: /science/
 ## Chemistry
 Resources you will find helpful when studying for Chemistry Classes. 
 
-1.
-2.
-3.
 
 
 
