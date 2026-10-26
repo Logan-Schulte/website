@@ -16,6 +16,8 @@ Resources you will find helpful when studying for Chemistry Classes.
 Resources you will find helpful when studying for Biology.
 
 
+&emsp;**1.** [Biology Resource](https://www.khanacademy.org/science/biology): Khan academy with infromation on Biology. 
+
 ## Physics
 Resources you will find helpful when studying for Physics.
 1. [Jake's Physics Notes](https://jakesphysicsnotes.com/): Primarily geared towards high school physics, this is still useful for physics 1.
