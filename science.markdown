@@ -18,7 +18,16 @@ Resources you will find helpful when studying for Biology.
 
 ## Physics
 Resources you will find helpful when studying for Physics.
+<<<<<<< HEAD
 1. [Jake's Physics Notes](https://jakesphysicsnotes.com/): Primarily geared towards high school physics, this is still useful for physics 1.
 2. [Pearson Physics Course](https://www.pearson.com/channels/physics/learn/patrick/math-review/math-review): Provides video guides through physics concepts covered primarily in physics 1. Also has practice sets and worksheets.
 3. [Khan Academy - Physics 1](https://www.khanacademy.org/science/ap-college-physics-1): Khan Academy course covering concepts related to physics 1.
 4. [Khan Academy - Physics 2](https://www.khanacademy.org/science/ap-physics-2): Khan Academy course covering concepts related to physics 2, thermodynamics is included in this and may be in physics 1 courses at UC.
+=======
+- Physics 1 Formula Sheet:
+https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+- Physics Review Videos:
+https://www.youtube.com/playlist?list=PLMmzicajje3zhHaNlDkkxEHIntxKl35gI
+- Physics Khan Academy:
+https://www.khanacademy.org/science/ap-college-physics-1
+>>>>>>> upstream/main
